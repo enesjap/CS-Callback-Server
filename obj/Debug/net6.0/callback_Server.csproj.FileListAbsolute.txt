@@ -1,0 +1,15 @@
+/home/berdo/callback_Server/bin/Debug/net6.0/callback_Server
+/home/berdo/callback_Server/bin/Debug/net6.0/callback_Server.deps.json
+/home/berdo/callback_Server/bin/Debug/net6.0/callback_Server.runtimeconfig.json
+/home/berdo/callback_Server/bin/Debug/net6.0/callback_Server.dll
+/home/berdo/callback_Server/bin/Debug/net6.0/ref/callback_Server.dll
+/home/berdo/callback_Server/bin/Debug/net6.0/callback_Server.pdb
+/home/berdo/callback_Server/obj/Debug/net6.0/callback_Server.csproj.AssemblyReference.cache
+/home/berdo/callback_Server/obj/Debug/net6.0/callback_Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/berdo/callback_Server/obj/Debug/net6.0/callback_Server.AssemblyInfoInputs.cache
+/home/berdo/callback_Server/obj/Debug/net6.0/callback_Server.AssemblyInfo.cs
+/home/berdo/callback_Server/obj/Debug/net6.0/callback_Server.csproj.CoreCompileInputs.cache
+/home/berdo/callback_Server/obj/Debug/net6.0/callback_Server.dll
+/home/berdo/callback_Server/obj/Debug/net6.0/ref/callback_Server.dll
+/home/berdo/callback_Server/obj/Debug/net6.0/callback_Server.pdb
+/home/berdo/callback_Server/obj/Debug/net6.0/callback_Server.genruntimeconfig.cache
